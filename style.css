@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+.link-header{
+    color: black;
+text-decoration:none;
+font-size: 45px;
+}
+.pop{
+margin-left: ;
+background-image: linear-gradient(rgb(1, 157, 209),rgb(211, 211, 211)); 
+}
+.link-nav{
+margin-left: 150px;
+font-size: 20px;
+text-decoration:none; 
+color: black;
+}
+.link-header:hover{ 
+    color: cornflowerblue;
+    
+}
+.link-nav:hover{
+    color: cornflowerblue;
+} 
+.social{
+ margin-left: 130px;
+}
+
